@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "简易文本编译器", "第三次上机\第三次上机.vcxproj", "{FC16FC5F-85E2-4A04-A6D4-88CAF22F1A88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17", "17\17.vcxproj", "{A7A6E2D7-B26E-430E-8E51-BF2EE8EF62B8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18", "18\18.vcxproj", "{49DCB8AA-D6EE-4A01-8B72-0999394BFBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC16FC5F-85E2-4A04-A6D4-88CAF22F1A88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC16FC5F-85E2-4A04-A6D4-88CAF22F1A88}.Debug|Win32.Build.0 = Debug|Win32
+		{FC16FC5F-85E2-4A04-A6D4-88CAF22F1A88}.Release|Win32.ActiveCfg = Release|Win32
+		{FC16FC5F-85E2-4A04-A6D4-88CAF22F1A88}.Release|Win32.Build.0 = Release|Win32
+		{A7A6E2D7-B26E-430E-8E51-BF2EE8EF62B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7A6E2D7-B26E-430E-8E51-BF2EE8EF62B8}.Debug|Win32.Build.0 = Debug|Win32
+		{A7A6E2D7-B26E-430E-8E51-BF2EE8EF62B8}.Release|Win32.ActiveCfg = Release|Win32
+		{A7A6E2D7-B26E-430E-8E51-BF2EE8EF62B8}.Release|Win32.Build.0 = Release|Win32
+		{49DCB8AA-D6EE-4A01-8B72-0999394BFBCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49DCB8AA-D6EE-4A01-8B72-0999394BFBCF}.Debug|Win32.Build.0 = Debug|Win32
+		{49DCB8AA-D6EE-4A01-8B72-0999394BFBCF}.Release|Win32.ActiveCfg = Release|Win32
+		{49DCB8AA-D6EE-4A01-8B72-0999394BFBCF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

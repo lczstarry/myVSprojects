@@ -1,0 +1,11 @@
+﻿生成启动时间为 2016/12/31 14:01:06。
+     1>项目“c:\Users\DELL\documents\visual studio 2013\Projects\camera_cailbration\camera_cailbration\camera_cailbration.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         E:\visual studio 2013 破解版\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt F:\opencv\sources\samples\cpp\calibration.cpp
+         正在跳过...(未检测到相关更改)
+         calibration.cpp
+     1>已完成生成项目“c:\Users\DELL\documents\visual studio 2013\Projects\camera_cailbration\camera_cailbration\camera_cailbration.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.18

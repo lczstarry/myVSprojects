@@ -1,0 +1,22 @@
+﻿生成启动时间为 2016/11/18 13:01:16。
+     1>项目“C:\Users\DELL\documents\visual studio 2013\Projects\MarkerlessAr\MarkerlessAr\MarkerlessAr.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\visual studio 2013 破解版\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\dell\documents\visual studio 2013\projects\markerlessar\markerlessar\DebugHelpers.hpp(42): warning C4018: “>”: 有符号/无符号不匹配
+       Link:
+         E:\visual studio 2013 破解版\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DELL\documents\visual studio 2013\Projects\MarkerlessAr\Release\MarkerlessAr.exe" /INCREMENTAL:NO /NOLOGO opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DELL\documents\visual studio 2013\Projects\MarkerlessAr\Release\MarkerlessAr.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DELL\documents\visual studio 2013\Projects\MarkerlessAr\Release\MarkerlessAr.lib" /MACHINE:X86 /SAFESEH Release\ARDrawingContext.obj
+         Release\ARPipeline.obj
+         Release\CameraCalibration.obj
+         Release\GeometryTypes.obj
+         Release\main.obj
+         Release\Pattern.obj
+         Release\PatternDetector.obj
+         正在生成代码
+         已完成代码的生成
+         MarkerlessAr.vcxproj -> C:\Users\DELL\documents\visual studio 2013\Projects\MarkerlessAr\Release\MarkerlessAr.exe
+     1>已完成生成项目“C:\Users\DELL\documents\visual studio 2013\Projects\MarkerlessAr\MarkerlessAr\MarkerlessAr.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.15

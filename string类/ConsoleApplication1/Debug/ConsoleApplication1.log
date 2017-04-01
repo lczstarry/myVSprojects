@@ -1,0 +1,10 @@
+﻿生成启动时间为 2015/3/26 16:06:13。
+     1>项目“C:\Users\DELL\Documents\Visual Studio 2013\Projects\string类\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         ConsoleApplication1.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2013\Projects\string类\Debug\string类.exe
+     1>已完成生成项目“C:\Users\DELL\Documents\Visual Studio 2013\Projects\string类\ConsoleApplication1\ConsoleApplication1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.07

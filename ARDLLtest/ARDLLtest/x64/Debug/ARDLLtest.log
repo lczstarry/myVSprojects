@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/12/2 14:58:06。
+     1>项目“c:\Users\DELL\documents\visual studio 2013\Projects\ARDLLtest\ARDLLtest\ARDLLtest.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\visual studio 2013 破解版\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D ARDLLTEST_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt ..\..\..\..\..\Desktop\src\PatternDetector.cpp
+         PatternDetector.cpp
+       Link:
+         E:\visual studio 2013 破解版\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\dell\documents\visual studio 2013\Projects\ARDLLtest\x64\Debug\ARDLLtest.dll" /INCREMENTAL /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\dell\documents\visual studio 2013\Projects\ARDLLtest\x64\Debug\ARDLLtest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\dell\documents\visual studio 2013\Projects\ARDLLtest\x64\Debug\ARDLLtest.lib" /MACHINE:X64 /DLL x64\Debug\PatternDetector.obj
+     1>PatternDetector.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl cv::_InputArray::_InputArray(class cv::Mat const &)" (??0_InputArray@cv@@QEAA@AEBVMat@1@@Z)，该符号在函数 "void __cdecl getGray(class cv::Mat const &,class cv::Mat &)" (?getGray@@YAXAEBVMat@cv@@AEAV12@@Z) 中被引用
+     1>PatternDetector.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl cv::_OutputArray::_OutputArray(class cv::Mat &)" (??0_OutputArray@cv@@QEAA@AEAVMat@1@@Z)，该符号在函数 "void __cdecl getGray(class cv::Mat const &,class cv::Mat &)" (?getGray@@YAXAEBVMat@cv@@AEAV12@@Z) 中被引用
+     1>PatternDetector.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QEAAXXZ)，该符号在函数 "public: void __cdecl cv::Mat::release(void)" (?release@Mat@cv@@QEAAXXZ) 中被引用
+     1>PatternDetector.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl cv::Mat::copySize(class cv::Mat const &)" (?copySize@Mat@cv@@QEAAXAEBV12@@Z)，该符号在函数 "public: class cv::Mat & __cdecl cv::Mat::operator=(class cv::Mat const &)" (??4Mat@cv@@QEAAAEAV01@AEBV01@@Z) 中被引用
+     1>PatternDetector.obj : error LNK2019: 无法解析的外部符号 "int __cdecl cv::_interlockedExchangeAdd(int *,int)" (?_interlockedExchangeAdd@cv@@YAHPEAHH@Z)，该符号在函数 "public: class cv::Mat & __cdecl cv::Mat::operator=(class cv::Mat const &)" (??4Mat@cv@@QEAAAEAV01@AEBV01@@Z) 中被引用
+     1>PatternDetector.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::cvtColor(class cv::_InputArray const &,class cv::_OutputArray const &,int,int)" (?cvtColor@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HH@Z)，该符号在函数 "void __cdecl getGray(class cv::Mat const &,class cv::Mat &)" (?getGray@@YAXAEBVMat@cv@@AEAV12@@Z) 中被引用
+     1>c:\users\dell\documents\visual studio 2013\Projects\ARDLLtest\x64\Debug\ARDLLtest.dll : fatal error LNK1120: 6 个无法解析的外部命令
+     1>已完成生成项目“c:\Users\DELL\documents\visual studio 2013\Projects\ARDLLtest\ARDLLtest\ARDLLtest.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.20

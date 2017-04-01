@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/7/6 15:01:49。
+     1>项目“c:\Users\DELL\documents\visual studio 2013\Projects\player\player\player.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\visual studio 2013 破解版\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\player.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt playerDlg.cpp
+         playerDlg.cpp
+     1>c:\users\dell\documents\visual studio 2013\projects\player\player\playerdlg.cpp(169): error C2664: “CFileDialog::CFileDialog(const CFileDialog &)”: 无法将参数 5 从“char [260]”转换为“LPCTSTR”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>c:\users\dell\documents\visual studio 2013\projects\player\player\playerdlg.cpp(174): error C2039: “SetUrl”: 不是“COcx1”的成员
+                 c:\users\dell\documents\visual studio 2013\projects\player\player\ocx1.h(11) : 参见“COcx1”的声明
+     1>已完成生成项目“c:\Users\DELL\documents\visual studio 2013\Projects\player\player\player.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.88

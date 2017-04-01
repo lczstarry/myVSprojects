@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "堆", "第五次上机\第五次上机.vcxproj", "{B6DDA65C-CC90-4A11-B11D-F45524B0F0C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图像压缩算法", "图像压缩算法\图像压缩算法.vcxproj", "{D514F9A5-9509-4909-9D0C-744B7C8E209B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "医院设施管理", "医院设施管理\医院设施管理.vcxproj", "{2AD6934D-1834-4743-A788-ADE626FCC0CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "医院设施管理2", "医院设施管理2\医院设施管理2.vcxproj", "{7990886F-7A6F-48F8-9082-218E0B86C54F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图像2", "图像2\图像2.vcxproj", "{26E22EBD-9A89-4C69-A04E-1AABD76AB1BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6DDA65C-CC90-4A11-B11D-F45524B0F0C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6DDA65C-CC90-4A11-B11D-F45524B0F0C4}.Debug|Win32.Build.0 = Debug|Win32
+		{B6DDA65C-CC90-4A11-B11D-F45524B0F0C4}.Release|Win32.ActiveCfg = Release|Win32
+		{B6DDA65C-CC90-4A11-B11D-F45524B0F0C4}.Release|Win32.Build.0 = Release|Win32
+		{D514F9A5-9509-4909-9D0C-744B7C8E209B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D514F9A5-9509-4909-9D0C-744B7C8E209B}.Debug|Win32.Build.0 = Debug|Win32
+		{D514F9A5-9509-4909-9D0C-744B7C8E209B}.Release|Win32.ActiveCfg = Release|Win32
+		{D514F9A5-9509-4909-9D0C-744B7C8E209B}.Release|Win32.Build.0 = Release|Win32
+		{2AD6934D-1834-4743-A788-ADE626FCC0CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2AD6934D-1834-4743-A788-ADE626FCC0CD}.Debug|Win32.Build.0 = Debug|Win32
+		{2AD6934D-1834-4743-A788-ADE626FCC0CD}.Release|Win32.ActiveCfg = Release|Win32
+		{2AD6934D-1834-4743-A788-ADE626FCC0CD}.Release|Win32.Build.0 = Release|Win32
+		{7990886F-7A6F-48F8-9082-218E0B86C54F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7990886F-7A6F-48F8-9082-218E0B86C54F}.Debug|Win32.Build.0 = Debug|Win32
+		{7990886F-7A6F-48F8-9082-218E0B86C54F}.Release|Win32.ActiveCfg = Release|Win32
+		{7990886F-7A6F-48F8-9082-218E0B86C54F}.Release|Win32.Build.0 = Release|Win32
+		{26E22EBD-9A89-4C69-A04E-1AABD76AB1BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26E22EBD-9A89-4C69-A04E-1AABD76AB1BE}.Debug|Win32.Build.0 = Debug|Win32
+		{26E22EBD-9A89-4C69-A04E-1AABD76AB1BE}.Release|Win32.ActiveCfg = Release|Win32
+		{26E22EBD-9A89-4C69-A04E-1AABD76AB1BE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

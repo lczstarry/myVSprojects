@@ -1,0 +1,21 @@
+﻿生成启动时间为 2015/6/30 15:41:24。
+     1>项目“C:\Users\DELL\Documents\Visual Studio 2013\Projects\MFCApplication4\MFCApplication4\MFCApplication4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\visual studio 2013 破解版\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCApplication4.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCApplication4.cpp MFCApplication4Dlg.cpp
+         MFCApplication4Dlg.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         MFCApplication4.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFCApplication4.res" MFCApplication4.rc 
+       Link:
+         E:\visual studio 2013 破解版\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DELL\Documents\Visual Studio 2013\Projects\MFCApplication4\Debug\MFCApplication4.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"E:\visual studio 2013 破解版\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\DELL\Documents\Visual Studio 2013\Projects\MFCApplication4\Debug\MFCApplication4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DELL\Documents\Visual Studio 2013\Projects\MFCApplication4\Debug\MFCApplication4.lib" /MACHINE:X86 Debug\MFCApplication4.res
+         Debug\MFCApplication4.obj
+         Debug\MFCApplication4Dlg.obj
+         Debug\stdafx.obj
+         MFCApplication4.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2013\Projects\MFCApplication4\Debug\MFCApplication4.exe
+     1>已完成生成项目“C:\Users\DELL\Documents\Visual Studio 2013\Projects\MFCApplication4\MFCApplication4\MFCApplication4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.26
